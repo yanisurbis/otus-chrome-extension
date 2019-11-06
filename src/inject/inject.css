@@ -1,0 +1,8 @@
+.media-player_with-items {
+  display: flex;
+  flex-direction: column;
+  height: 1300px !important;
+}
+.media-player__contents {
+  width: 100% !important;
+}
